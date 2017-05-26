@@ -1,0 +1,16 @@
+com\googlecode\blaisemath\gesture\graphics\CreateLineGesture.class
+com\googlecode\blaisemath\gesture\MouseGesture.class
+com\googlecode\blaisemath\gesture\GestureLayerUI.class
+com\googlecode\blaisemath\gesture\graphics\CreateEllipseGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreateRectangleGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreateGraphicGesture$1.class
+com\googlecode\blaisemath\gesture\graphics\CreateImageGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreateMarkerGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreateCircleGesture.class
+com\googlecode\blaisemath\gesture\GestureOrchestrator.class
+com\googlecode\blaisemath\gesture\graphics\CreateGraphicGesture$Painter.class
+com\googlecode\blaisemath\gesture\graphics\CreateGraphicGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreateTextGesture.class
+com\googlecode\blaisemath\gesture\graphics\CreatePathGesture.class
+com\googlecode\blaisemath\gesture\GestureOrchestrator$1.class
+com\googlecode\blaisemath\gesture\MouseGestureSupport.class
